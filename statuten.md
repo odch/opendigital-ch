@@ -2,7 +2,7 @@
 
 # Rechtsform, Zweck und Sitz
 ## Art. 1
-Unter dem Namen … besteht ein nichtgewinnorientierter Verein gemäss den vorliegenden Statuten und im Sinne von Artikel 60 ff. des Schweizerischen Zivilgesetzbuches. 
+Unter dem Namen open digital besteht ein nichtgewinnorientierter Verein gemäss den vorliegenden Statuten und im Sinne von Artikel 60 ff. des Schweizerischen Zivilgesetzbuches. 
 
 ## Art. 2
 Der Zweck des Vereins:
