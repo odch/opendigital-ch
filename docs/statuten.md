@@ -2,6 +2,7 @@ Statuten open digital
 =====================
 
 # Rechtsform, Zweck und Sitz
+
 ## Art. 1
 Unter dem Namen open digital besteht ein nichtgewinnorientierter Verein gemäss den vorliegenden Statuten und im Sinne von Artikel 60 ff. des Schweizerischen Zivilgesetzbuches. 
 
@@ -14,6 +15,7 @@ Förderung und Verbreitung von offenen Standards, Daten, Information und freier 
 Der Sitz des Vereins befindet sich in Winterthur. Der Verein besteht auf unbeschränkte Dauer.
 
 # Organisation
+
 ## Art. 4
 Die Organe des Vereins sind:
 die Generalversammlung;
@@ -26,6 +28,7 @@ Das Geschäftsjahr beginnt jeweils am 1. Januar und endet am 31. Dezember.
 Für die Verbindlichkeiten des Vereins wird mit dem Vereinsvermögen gehaftet; eine persönliche Haftung der Mitglieder ist ausgeschlossen.
 
 # Mitgliedschaft
+
 ## Art. 6
 Die Mitgliedschaft steht allen Personen und Organisationen offen, die ein Interesse an der Erreichung der in Art. 2 genannten Vereinszwecke haben.
 
@@ -46,6 +49,7 @@ Verantwortlich für den Ausschluss ist der Vorstand. Die betroffene Person kann 
 Sehen die Statuten den Ausschluss aus "wichtigen Gründen" vor, so hat der Richter bzw. die Richterin nicht das Recht, die Gründe für einen Ausschlussentscheid zu prüfen.
 
 # Generalversammlung
+
 ## Art. 10
 Die Generalversammlung bildet das oberste Organ des Vereins. Sie besteht aus allen Mitgliedern des Vereins.
 
@@ -90,6 +94,7 @@ Der Vorstand muss jeden von einem Mitglied mindestens 10 Tage im Voraus schriftl
 Eine ausserordentliche Generalversammlung findet auf Einberufung des Vorstands oder auf Verlangen von einem Fünftel der Mitglieder statt.
 
 # Vorstand
+
 ## Art. 20
 Der Vorstand ist für die Umsetzung und Ausführung der Beschlüsse der Generalversammlung zuständig. Er leitet den Verein und ergreift alle nötigen Massnahmen, um den Vereinszweck zu erreichen. Der Vorstand entscheidet in allen Fragen, die nicht ausdrücklich der Generalversammlung vorbehalten sind.
 
@@ -113,10 +118,12 @@ Der Vorstand ist für die Buchführung des Vereins zuständig.
 Der Vorstand ist für die Einstellung (Entlassung) der bezahlten und der freiwilligen Mitarbeitenden des Vereins zuständig. Zeitlich begrenzte Aufträge kann der Vorstand an alle Vereinsmitglieder oder auch an Externe vergeben. 
 
 # Revisionsstelle
+
 ## Art. 26
 Die Revisionsstelle überprüft die Buchführung des Vereins und legt der Generalversammlung einen Bericht vor. Sie besteht aus zwei von der Generalversammlung gewählten Revisoren bzw. Revisorinnen. Die Generalversammlung kann auf die Wahl von Revisoren verzichten.
 
 # Auflösung
+
 ## Art. 27
 Die Auflösung des Vereins wird von der Generalversammlung beschlossen und erfordert eine Zweidrittelsmehrheit der anwesenden Mitglieder. Besitzt der Verein Aktiven, so gehen diese auf eine Organisation mit ähnlichen Zwecken über.
 
