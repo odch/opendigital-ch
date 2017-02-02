@@ -1,4 +1,5 @@
-# !!ENTWURF!!!
+Statuten open digital
+=====================
 
 # Rechtsform, Zweck und Sitz
 ## Art. 1
@@ -7,7 +8,7 @@ Unter dem Namen open digital besteht ein nichtgewinnorientierter Verein gemäss 
 ## Art. 2
 Der Zweck des Vereins:
 
-Definieren Sie die Ziele des Vereins präzise, aber nicht einschränkend, sodass bezüglich der Art und Weise der Zweckerreichung und der dafür eingesetzten Mittel ein gewisser Spielraum bestehen bleibt.
+Förderung und Verbreitung von offenen Standards, Daten, Information und freier Software im Bereich der Digitalisierung mit Hauptfokus Aviatik.
 
 ## Art. 3
 Der Sitz des Vereins befindet sich in Winterthur. Der Verein besteht auf unbeschränkte Dauer.
@@ -27,15 +28,12 @@ Für die Verbindlichkeiten des Vereins wird mit dem Vereinsvermögen gehaftet; e
 # Mitgliedschaft
 ## Art. 6
 Die Mitgliedschaft steht allen Personen und Organisationen offen, die ein Interesse an der Erreichung der in Art. 2 genannten Vereinszwecke haben.
-Im Rahmen der ihm zur Verfügung stehenden Mittel zieht der Verein die Herausgabe/Veröffentlichung eines Informationsblattes für die Mitglieder des Vereins sowie für interessierte Dritte in Betracht.
-Erwähnen Sie diese Möglichkeit, um bei der Post von vergünstigten Versandtarifen zu profitieren. 
 
 ## Art. 7
 Der Verein besteht aus:
-Einzelmitgliedern;
-Kollektivmitgliedern.
-Sie können verschiedene Kategorien von Mitgliedern in Betracht ziehen: Gründungsmitglieder, Gönnermitglieder, Einzelmitglieder, Vollmitglieder, assoziierte Mitglieder, Kollektivmitglieder.
-Kollektivmitglieder können den Einzelmitgliedern beispielsweise gleichgestellt sein oder abhängig von ihrer Grösse, ihrer Bedeutung usw. über mehr Stimmrechte verfügen. Wichtig ist, dass allfällige Unterschiede beim Stimmrecht in den Statuten festgehalten werden. (vgl. Art. 14.)
+Vollmitgliedern;
+Kollektivmitgliedern;
+Gönnermitgliedern.
 
 ## Art. 8
 Beitrittsgesuche sind an den Vorstand zu richten. Der Vorstand entscheidet über die Aufnahme neuer Mitglieder und informiert die Generalversammlung darüber.
@@ -49,7 +47,7 @@ Sehen die Statuten den Ausschluss aus "wichtigen Gründen" vor, so hat der Richt
 
 # Generalversammlung
 ## Art. 10
-Die Generalversammlung bildet das oberste Organ des Vereins. Sie besteht aus allen Mitgliedern des Vereins. 
+Die Generalversammlung bildet das oberste Organ des Vereins. Sie besteht aus allen Mitgliedern des Vereins.
 
 ## Art. 11
 Die Generalversammlung ist für folgende Aufgaben zuständig:
@@ -69,7 +67,7 @@ Die Generalversammlung wird vom Vorstand mindestens 20 Tage im Voraus einberufen
 Die Generalversammlung wird vom Präsidenten/von der Präsidentin des Vorstands oder von einem anderen Vorstandsmitglied geleitet.
 
 ## Art. 14
-Beschlüsse der Generalversammlung werden mit einfachem Mehr der anwesenden Mitglieder gefasst.
+Beschlüsse der Generalversammlung werden mit einfachem Mehr der anwesenden Vollmitglieder gefasst.
 
 ## Art. 15
 Die Stimmabgabe erfolgt durch Handerheben. Wenn mindestens fünf Mitglieder dies beantragen, erfolgt die Abstimmung geheim. Eine Stimmabgabe durch Stellvertretung ist nicht möglich.
@@ -116,13 +114,16 @@ Der Vorstand ist für die Einstellung (Entlassung) der bezahlten und der freiwil
 
 # Revisionsstelle
 ## Art. 26
-Die Revisionsstelle überprüft die Buchführung des Vereins und legt der Generalversammlung einen Bericht vor. Sie besteht aus zwei von der Generalversammlung gewählten Revisoren bzw. Revisorinnen. 
+Die Revisionsstelle überprüft die Buchführung des Vereins und legt der Generalversammlung einen Bericht vor. Sie besteht aus zwei von der Generalversammlung gewählten Revisoren bzw. Revisorinnen. Die Generalversammlung kann auf die Wahl von Revisoren verzichten.
 
 # Auflösung
 ## Art. 27
 Die Auflösung des Vereins wird von der Generalversammlung beschlossen und erfordert eine Zweidrittelsmehrheit der anwesenden Mitglieder. Besitzt der Verein Aktiven, so gehen diese auf eine Organisation mit ähnlichen Zwecken über.
 
-Diese Statuten wurden von der Gründungsversammlung am 06.02.2017 in Winterthur angenommen.
+Diese Statuten wurden von der Gründungsversammlung am 02.02.2017 in Winterthur angenommen.
+
 Im Namen des Vereins
+
 Der Präsident:
+
 Roland Züger
